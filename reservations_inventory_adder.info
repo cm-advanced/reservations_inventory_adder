@@ -5,7 +5,7 @@ package = Community Media
 
 
 package = "Community Media Advanced"
-version = "7.x-2.x"
+version = "7.x-2.1"
 core = "7.x"
 project = "reservations_inventory_adder"
 project_status_url = https://github.com/cm-advanced/reservations_inventory_adder
